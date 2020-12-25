@@ -1,0 +1,3 @@
+https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.
+
+https://link.springer.com/chapter/10.1007/978-981-13-8798-2_12
